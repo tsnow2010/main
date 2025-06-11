@@ -37,9 +37,17 @@
 > Arizona State University
 
 > Bachelor of Science, Justice Studies with Specialization in Law and Legal Process: 2016 <br>
-> Southern New Hampshire University  
+> Southern New Hampshire University
 
-### Physical Fitness Accomplishments & Goals
+### RECENT PROJECT HIGHLIGHTS
+
+#### DATA_601 Domestic Movie Analysis <br>
+> This was a fun project to prove the hypothesis that domestic movie quality has deteriorated over time.  My team members and I concluded that "waves" of good movie productions occur but that no single decade made the "best" movies. <br>
+
+#### DATA_602 Malware Analysis <br>
+> This project involved a dataset containing 1,804 computer viruses features and a target (class) feature with which we were tasked to find a supervised, classification machine learning (ML) model that could classify a possible virus as quickly and accurately as possible.<br>
+
+### PHYSICAL FITNESS ACCOMPLISHMENTS
 
 > Norwegian Ruck March Badge in Silver: 2024
 > 
